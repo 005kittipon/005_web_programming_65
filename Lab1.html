@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <h1>แบบฝีกหัด 1:Web Portfolio</h1>
+    <h2>รหัสนักศึกษา 6440011005 กิตติภณ วิทยพันธ์</h2>
+</head>
+<body>
+    <h1>Kittipon Vittayapan</h1>
+    <h2>Web Programming</h2>
+        <p>หลักการเขียนโปรแกรมเว็บ การพัฒนาโปรแกรมประยุกต์เว็บโดยใช้ภาษาที่นิยม
+            ภาษาสคริปต์ ภาษาสาหรับการจัดรูปแบบเว็บ การพัฒนาเว็บเพื่อใช้งานฐานข้อมูล
+            เฟรมเวอร์คสาหรับการพัฒนาเว็บ การฝึกปฏิบัติที่สอดคล้องกับรายวิชา</p>
+
+            <img src ="image/tu.jpg" alt ="" width="500px" height="300px">
+   <h2>Tab of Content</h2>
+   <ul>
+    <li>About Me</li>
+    <li>My Skill</li>
+    <li>Experiences</li>
+    <li>Web programming Exerices</li>
+    <li>Schedule</li>
+    <li>Contact Me</li>
+   </ul>
+
+   <h2>About Me</h2>
+   <ul>
+    <li>Name: Kittipon Vittayapan</li>
+    <li>20 Years Old.</li>
+    <li>Study PSU. Surat Thani Campus</li>
+    <li>IT Student</li>
+   </ul>
+   
+   <h2>My Skill</h2>
+   <ul>
+    <li>Grafic Design</li>
+    <li>Photoshop</li>
+    <li>Cooking</li>
+   </ul>
+
+   <h2>Experiences</h2>
+   <ul>
+    <li>Grafic Design</li>
+    <li>Video Editing</li>
+   </ul>
+
+   <h2>My Subject</h2>
+    <ol>
+        <li>Database System</li>
+        <li> <a href="web_programming.html">Web Programming</a></li>
+        <li>Business Intelligence</li>
+    </ol>
+
+   <h2>Schedule</h2>
+   <table border=""> 
+    <tr>
+        <td>Date/Time</td>
+        <td><center>8.30-11.30</center></td>
+        <td><center>12.00-13.00</center></td>
+        <td><center>13.00-15.00</center></td>
+        <td><center>15.00-17.00</center></td>
+    </tr>
+
+    <tr>
+        <td>Mon</td>
+        <td><center>Web Programming</center></td>
+        <td rowspan="5">พักกลางวัน</td>
+        <td></td>
+        <td><center>Data Science</center></td>
+    </tr>
+
+    <tr>
+        <td>Tue</td>
+        <td>SYSTEM ANALYSIS & DESIGN</td>
+        <td></td>
+        <td>EFFECTIVE ENG COMMUNICATION</td>
+    </tr>
+
+    <tr>
+        <td>Wed</td>
+        <td><center>Web Programming</center></td>
+        <td></td>
+        <td><center>Data Science</center></td>
+    </tr>
+
+    <tr>
+        <td>Tues</td>
+        <td><center>Business Intelligence</center></td>
+        <td><center>Man and Music</center></td>
+        <td></td>
+    </tr>
+
+    <tr>
+         <td>Fri</td>
+         <td></td>
+         <td>IDEA TO ENTREPRENEURSHIP</td>
+         <td>LIFE SKILL CITIZEN 21 CENTURY</td> 
+    </tr>
+
+
+   </table>
+   <h2>Contact Me</h2>
+    <p>Email: 6440011005@psu.ac.th</p>  
+    <p>Tel: 0923206212</p> 
+    <p>IG: subsi.n_</p>
+
+    <a href="web_programming.html">Home</a>
+</body>
+</html>
